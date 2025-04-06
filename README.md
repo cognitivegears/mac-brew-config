@@ -14,6 +14,8 @@ The Brewfile includes:
 - VS Code extensions
 - Mac App Store applications
 
+For a complete categorized list of all packages with descriptions, see the [Brew Package List](brew_list.md).
+
 ## Requirements
 
 - macOS
